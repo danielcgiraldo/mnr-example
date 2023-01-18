@@ -4,4 +4,4 @@ Disallow: /resources/files/
 User-agent: *
 Allow: /
 
-Sitemap: https://storend.com.co/sitemap.xml
+Sitemap: https://.../sitemap.xml
