@@ -1,3 +1,3 @@
 export default function Page({ params } : {params:any}) {
-    return <div>Blog {params.id}</div>;
+    return <div>Daniel {params.id}</div>;
 }

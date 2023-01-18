@@ -12,4 +12,4 @@ When cloning this repository, don't forget to run ```npm install``` and ```npm r
 
 For next.js beta, the folder for all our routes (excluding apis) is going to be the ```app``` folder. Inside this folder, we are developed some fundamentals:
 
-- /blog - This folder contains an example of [Dynamic Segments](https://beta.nextjs.org/docs/routing/defining-routes#dynamic-segments).
+- /blog - This folder contains an example of [Dynamic Segments](https://beta.nextjs.org/docs/routing/defining-routes#dynamic-segments). Also is a good example of [Nested Layouts](https://beta.nextjs.org/docs/routing/pages-and-layouts#nesting-layouts).
